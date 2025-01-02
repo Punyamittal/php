@@ -1,0 +1,5 @@
+<?php
+   echo"i lOVE PIZZA";
+   echo"its really good";
+   $name = "string of text";//variable making
+?>
